@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
-public class ActionPlayer : CharacterProperty
+public class ActionPlayer : MonoBehaviour
 {
     int hashJumpAttack;
+    public Animator myAnim;
     // Start is called before the first frame update
     void Start()
     {

@@ -354,6 +354,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/ActionPlayer.cs"
 "Assets/Scripts/Example.cs"
+"Assets/Scripts/fw.cs"
 "Assets/Scripts/RootMotion.cs"
 -langversion:9.0
 

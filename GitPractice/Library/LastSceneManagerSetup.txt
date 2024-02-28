@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Map+CameraMoveExample.unity
+- path: "Assets/Scenes/\uD0DC\uADFC \uB9C8\uC744 \uC81C\uC791 \uC5F0\uC2B5.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0

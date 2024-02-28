@@ -1,0 +1,254 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.19f1 (244b723c30a6) revision 2378610'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'ko' Physical Memory: 65371 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.19f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/user/OneDrive/ë°”íƒ• í™”ë©´/24.01-05_academy/GitPractice
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+59182
+Successfully changed project path to: C:/Users/user/OneDrive/ë°”íƒ• í™”ë©´/24.01-05_academy/GitPractice
+C:/Users/user/OneDrive/ë°”íƒ• í™”ë©´/24.01-05_academy/GitPractice
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [12936] Host "[IP] 192.168.219.103 [Port] 0 [Flags] 2 [Guid] 1391783112 [EditorId] 1391783112 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-EHR98CB) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [12936] Host "[IP] 192.168.219.103 [Port] 0 [Flags] 2 [Guid] 1391783112 [EditorId] 1391783112 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-EHR98CB) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 23 workers.
+Refreshing native plugins compatible for Editor in 10.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.19f1 (244b723c30a6)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/OneDrive/ë°”íƒ• í™”ë©´/24.01-05_academy/GitPractice/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 Ti (ID=0x2782)
+    Vendor:   NVIDIA
+    VRAM:     12010 MB
+    Driver:   31.0.15.3758
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56108
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.027942 seconds.
+- Loaded All Assemblies, in  0.280 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.167 seconds
+Domain Reload Profiling: 444ms
+	BeginReloadAssembly (92ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (0ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (69ms)
+	LoadAllAssembliesAndSetupDomain (82ms)
+		LoadAssemblies (87ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (80ms)
+			TypeCache.Refresh (79ms)
+				TypeCache.ScanAssembly (71ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (168ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (131ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (88ms)
+			ProcessInitializeOnLoadMethodAttributes (30ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.357 seconds
+Refreshing native plugins compatible for Editor in 4.45 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.250 seconds
+Domain Reload Profiling: 600ms
+	BeginReloadAssembly (112ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (12ms)
+	RebuildCommonClasses (20ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (172ms)
+		LoadAssemblies (191ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (54ms)
+			TypeCache.Refresh (52ms)
+				TypeCache.ScanAssembly (43ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (251ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (170ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (53ms)
+			ProcessInitializeOnLoadAttributes (86ms)
+			ProcessInitializeOnLoadMethodAttributes (15ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 6.72 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3628 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (185.6 KB). Loaded Objects now: 4083.
+Memory consumption went from 133.0 MB to 132.8 MB.
+Total: 2.533300 ms (FindLiveObjects: 0.190200 ms CreateObjectMapping: 0.095400 ms MarkObjects: 2.115100 ms  DeleteObjects: 0.131500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1059419.159646 seconds.
+  path: Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Complete Rooms/FoundationsCorridor.prefab
+  artifactKey: Guid(f9df72ffd56c54b839bb63ce92c853ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Complete Rooms/FoundationsCorridor.prefab using Guid(f9df72ffd56c54b839bb63ce92c853ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9772e619d0dd3542e5893a0b431bcb16') in 0.105485 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 114
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Ceilings/CorridorCeilingWoodenFloorBoards.prefab
+  artifactKey: Guid(6a563f46bf79b47fbb035a2c7f6a85ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Ceilings/CorridorCeilingWoodenFloorBoards.prefab using Guid(6a563f46bf79b47fbb035a2c7f6a85ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2d5655a7aee365647cc0519965875f0') in 0.008257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Floors/FloorRoughStoneCorridor.prefab
+  artifactKey: Guid(ebaef1df105b84c5bad893bb42f0d493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Floors/FloorRoughStoneCorridor.prefab using Guid(ebaef1df105b84c5bad893bb42f0d493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51ceaf575aa70e06345c27687cb16e14') in 0.007500 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Walls/WallExteriorConnector.prefab
+  artifactKey: Guid(ef90c9a8e9b0145798d61dc372a4d72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Walls/WallExteriorConnector.prefab using Guid(ef90c9a8e9b0145798d61dc372a4d72f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156b3147d5dbaafaafc9e6d86352ab3f') in 0.008110 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 25
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Walls/StoneWallCornerConnector.prefab
+  artifactKey: Guid(e1f9b21398d254dd0898f796b680c568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Walls/StoneWallCornerConnector.prefab using Guid(e1f9b21398d254dd0898f796b680c568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ded6688eb99194735ded428355346a4') in 0.007760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Props/Cauldron.prefab
+  artifactKey: Guid(29b42508546944b37a3b70e15ec7ebbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Props/Cauldron.prefab using Guid(29b42508546944b37a3b70e15ec7ebbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515a4a92aedc593a2f9b6d587d2bce13') in 0.007477 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Furniture/Beds/BedSingleTeal.prefab
+  artifactKey: Guid(100352694ee33494693b5c30654277e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Furniture/Beds/BedSingleTeal.prefab using Guid(100352694ee33494693b5c30654277e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf35e5cb97e13da7b57591ea71a631c8') in 0.007297 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Props/Barrel.prefab
+  artifactKey: Guid(766387603bc1344ad8380a61144b2b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Props/Barrel.prefab using Guid(766387603bc1344ad8380a61144b2b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78c6cc017c62dd28c63926f9088b9d3f') in 0.007215 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Walls/WallStoneArchWindows.prefab
+  artifactKey: Guid(8311207f1bb1f4972bbc30c10dc0a3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pup Up Productions/Voxel Castle Pack Lite/Prefabs/Walls/WallStoneArchWindows.prefab using Guid(8311207f1bb1f4972bbc30c10dc0a3a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a756c128fee3af8c7c445b1e24024b') in 0.006972 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: ½º·¹µå Á¾·á ¶Ç´Â ÀÀ¿ë ÇÁ·Î±×·¥ ¿äÃ» ¶§¹®¿¡ I/O ÀÛ¾÷ÀÌ Ãë¼ÒµÇ¾ú½À´Ï´Ù.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
